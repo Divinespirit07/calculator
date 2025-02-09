@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text">Enter a no.</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="mod">%</string>
+    <string name="app_name">Calculator</string>"
+</resources>
+
+
+
+
