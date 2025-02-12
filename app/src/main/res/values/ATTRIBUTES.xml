@@ -4,9 +4,12 @@
     <string name="add">+</string>
     <string name="sub">-</string>
     <string name="div">/</string>
-    <string name="mul">*</string>
+    <string name="mul">X</string>
     <string name="mod">%</string>
+    <string name="result">=</string>"
+    <string name="View">View</string>
     <string name="app_name">Calculator</string>"
+    <string name="clear">CLR</string>
 </resources>
 
 
